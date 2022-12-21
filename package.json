@@ -1,4 +1,10 @@
 {
   "name": "crumbl_scraper",
-  "packageManager": "yarn@3.3.1"
+  "packageManager": "yarn@3.3.1",
+  "dependencies": {
+    "puppeteer": "^19.4.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
