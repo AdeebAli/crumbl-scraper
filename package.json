@@ -2,7 +2,6 @@
   "name": "crumbl_scraper",
   "packageManager": "yarn@3.3.1",
   "dependencies": {
-    "global": "^4.4.0",
     "puppeteer": "^19.4.1"
   },
   "devDependencies": {

@@ -36,7 +36,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-import", "virtual:f05c6617b6bed4067a81425648d58cff11beee1d26ddc2ff876e3037169fda0bdab8ea77cfc94f6b822938958a904e4b1e91d7b8160f097d9cf9f265b36e2348#npm:2.26.0"],\
             ["eslint-plugin-n", "virtual:f05c6617b6bed4067a81425648d58cff11beee1d26ddc2ff876e3037169fda0bdab8ea77cfc94f6b822938958a904e4b1e91d7b8160f097d9cf9f265b36e2348#npm:15.6.0"],\
             ["eslint-plugin-promise", "virtual:f05c6617b6bed4067a81425648d58cff11beee1d26ddc2ff876e3037169fda0bdab8ea77cfc94f6b822938958a904e4b1e91d7b8160f097d9cf9f265b36e2348#npm:6.1.1"],\
-            ["global", "npm:4.4.0"],\
             ["nodemon", "npm:2.0.20"],\
             ["puppeteer", "npm:19.4.1"],\
             ["ts-node", "virtual:f05c6617b6bed4067a81425648d58cff11beee1d26ddc2ff876e3037169fda0bdab8ea77cfc94f6b822938958a904e4b1e91d7b8160f097d9cf9f265b36e2348#npm:10.9.1"],\
@@ -1373,7 +1372,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-import", "virtual:f05c6617b6bed4067a81425648d58cff11beee1d26ddc2ff876e3037169fda0bdab8ea77cfc94f6b822938958a904e4b1e91d7b8160f097d9cf9f265b36e2348#npm:2.26.0"],\
             ["eslint-plugin-n", "virtual:f05c6617b6bed4067a81425648d58cff11beee1d26ddc2ff876e3037169fda0bdab8ea77cfc94f6b822938958a904e4b1e91d7b8160f097d9cf9f265b36e2348#npm:15.6.0"],\
             ["eslint-plugin-promise", "virtual:f05c6617b6bed4067a81425648d58cff11beee1d26ddc2ff876e3037169fda0bdab8ea77cfc94f6b822938958a904e4b1e91d7b8160f097d9cf9f265b36e2348#npm:6.1.1"],\
-            ["global", "npm:4.4.0"],\
             ["nodemon", "npm:2.0.20"],\
             ["puppeteer", "npm:19.4.1"],\
             ["ts-node", "virtual:f05c6617b6bed4067a81425648d58cff11beee1d26ddc2ff876e3037169fda0bdab8ea77cfc94f6b822938958a904e4b1e91d7b8160f097d9cf9f265b36e2348#npm:10.9.1"],\
@@ -1567,15 +1565,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["doctrine", "npm:3.0.0"],\
             ["esutils", "npm:2.0.3"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["dom-walk", [\
-        ["npm:0.1.2", {\
-          "packageLocation": "./.yarn/cache/dom-walk-npm-0.1.2-7d20a1a8d8-19eb0ce9c6.zip/node_modules/dom-walk/",\
-          "packageDependencies": [\
-            ["dom-walk", "npm:0.1.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -2429,17 +2418,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
-      ["global", [\
-        ["npm:4.4.0", {\
-          "packageLocation": "./.yarn/cache/global-npm-4.4.0-888ee8033d-9c057557c8.zip/node_modules/global/",\
-          "packageDependencies": [\
-            ["global", "npm:4.4.0"],\
-            ["min-document", "npm:2.19.0"],\
-            ["process", "npm:0.11.10"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
       ["globals", [\
         ["npm:13.19.0", {\
           "packageLocation": "./.yarn/cache/globals-npm-13.19.0-a63c75a2dd-a000dbd00b.zip/node_modules/globals/",\
@@ -3204,16 +3182,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
-      ["min-document", [\
-        ["npm:2.19.0", {\
-          "packageLocation": "./.yarn/cache/min-document-npm-2.19.0-458cdb3d84-da6437562e.zip/node_modules/min-document/",\
-          "packageDependencies": [\
-            ["min-document", "npm:2.19.0"],\
-            ["dom-walk", "npm:0.1.2"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
       ["minimatch", [\
         ["npm:3.1.2", {\
           "packageLocation": "./.yarn/cache/minimatch-npm-3.1.2-9405269906-c154e56640.zip/node_modules/minimatch/",\
@@ -3716,15 +3684,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/prelude-ls-npm-1.2.1-3e4d272a55-cd192ec0d0.zip/node_modules/prelude-ls/",\
           "packageDependencies": [\
             ["prelude-ls", "npm:1.2.1"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["process", [\
-        ["npm:0.11.10", {\
-          "packageLocation": "./.yarn/cache/process-npm-0.11.10-aeb3b641ae-bfcce49814.zip/node_modules/process/",\
-          "packageDependencies": [\
-            ["process", "npm:0.11.10"]\
           ],\
           "linkType": "HARD"\
         }]\
